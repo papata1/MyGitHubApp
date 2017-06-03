@@ -1,0 +1,2 @@
+pull api.github in json form
+and show data from put user github
